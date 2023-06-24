@@ -1,0 +1,11 @@
+langchain==0.0.212
+bs4
+unstructured
+docx2txt
+python-dotenv
+pinecone-client
+openai
+tiktoken
+streamlit
+streamlit-chat
+streamlit-extras
